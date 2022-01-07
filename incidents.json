@@ -1,0 +1,38 @@
+[
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"open",
+    "open_date":"2021-02-05 08:00:00",
+    "solved_date":""
+},
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"solved",
+    "open_date":"2021-01-05 08:00:00",
+    "solved_date":"2021-01-05 17:00:00"
+},
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"open",
+    "open_date":"2021-04-01 08:00:00",
+    "solved_date":""
+},
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"solved",
+    "open_date":"2021-05-01 08:00:00",
+    "solved_date":"2021-05-05 14:00:00"
+},
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"solved",
+    "open_date":"2021-05-08 08:00:00",
+    "solved_date":"2021-05-09 12:00:00"
+},
+{
+    "description":"the floor in the fruit area is dirty",
+    "status":"open",
+    "open_date":"2021-05-02 08:00:00",
+    "solved_date":""
+}
+]

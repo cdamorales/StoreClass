@@ -1,0 +1,23 @@
+{
+  "name": "store-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A test with a class store",
+  "main": "store.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "NODEJS",
+    "STORE"
+  ],
+  "author": "Candelario Morales",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
